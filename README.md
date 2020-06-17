@@ -3,7 +3,7 @@ This repository contains the thesis titled "Hate Speech Detection in Social Medi
 Also, the github links containing the code for the experiments. 
 # Thesis Abstract
 ```
-Social Media platforms are often abused to spread hateful messages. These notonly cause harm to
+Social Media platforms are often abused to spread hateful messages. These not only cause harm to
 the individual but also to society in general. The staggering volume of content  generated in 
 social media across so many countries, regions and languages make it impossible to be moderated
 manually. This necessitates that moderation efforts be augmented with automated tools. To this 
